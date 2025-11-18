@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-SIESGSTarena is the official chapter of CodeChef SIESGST, a student-run coding club at SIES Graduate School of Technology, Nerul. We aim to promote competitive programming and provide a platform for students to improve their coding skills and participate in various coding contests.Check out our platform at https://arena.siesgst.ac.in/.
+SIESGSTarena is the official chapter of CodeChef SIESGST, a student-run coding club at SIES Graduate School of Technology, Nerul. We aim to promote competitive programming and provide a platform for students to improve their coding skills and participate in various coding contests.Check out our platform at http://arena.siesgst.edu.in/.
 
 ## Repositories
 
